@@ -1,0 +1,98 @@
+﻿  BVH.cpp
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\global.hpp(20,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\global.hpp(22,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\global.hpp(46,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(113,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(114,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Renderer.cpp
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\global.hpp(20,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\global.hpp(22,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\global.hpp(46,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(113,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(114,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Scene.hpp(23,60): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Scene.hpp(23,51): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Scene.hpp(23,41): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Scene.hpp(25,29): warning C4305: “初始化”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Renderer.cpp(11,60): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Renderer.cpp(22,41): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Renderer.cpp(47,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Renderer.cpp(49,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Renderer.cpp(55,65): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+  Scene.cpp
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Scene.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\global.hpp(20,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\global.hpp(22,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\global.hpp(46,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(113,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(114,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Scene.hpp(23,60): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Scene.hpp(23,51): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Scene.hpp(23,41): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Scene.hpp(25,29): warning C4305: “初始化”: 从“double”到“float”截断
+  main.cpp
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\global.hpp(20,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\global.hpp(22,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\global.hpp(46,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(113,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(114,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Scene.hpp(23,60): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Scene.hpp(23,51): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Scene.hpp(23,41): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Scene.hpp(25,29): warning C4305: “初始化”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\OBJ_Loader.hpp(944,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Triangle.hpp(182,23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Triangle.hpp(185,44): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Triangle.hpp(185,37): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Triangle.hpp(185,30): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Triangle.hpp(184,44): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Triangle.hpp(184,37): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Triangle.hpp(184,30): warning C4305: “参数”: 从“double”到“float”截断
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Triangle.hpp(257,33): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Sphere.hpp(81,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Material.hpp(146): warning C4715: “Material::sample”: 不是所有的控件路径都返回值
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Material.hpp(177): warning C4715: “Material::eval”: 不是所有的控件路径都返回值
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Material.hpp(160): warning C4715: “Material::pdf”: 不是所有的控件路径都返回值
+C:\D-disk\Study\CG\whitted_ray_tracing\PA7\PA7\Bounds3.hpp(139): warning C4715: “Bounds3::IntersectP”: 不是所有的控件路径都返回值
+  PA7.vcxproj -> C:\D-disk\Study\CG\whitted_ray_tracing\PA7\x64\Debug\PA7.exe
